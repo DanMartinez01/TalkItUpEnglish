@@ -12,8 +12,8 @@ export default function Testimonials() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Don't take our word for it</h2>
-            <p className="text-xl text-gray-400">Vitae aliquet nec ullamcorper sit amet risus nullam eget felis semper quis lectus nulla at volutpat diam ut venenatis tellus—in ornare.</p>
+            <h2 className="h2 mb-4">Nuestros estudiantes</h2>
+            <p className="text-xl text-gray-400">Talk It Up English segun su experiencia.</p>
           </div>
 
           {/* Testimonials */}
@@ -29,9 +29,9 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">— La dinámica de las clases hace que el aprendizaje sea divertido y efectivo. La modalidad online es muy conveniente, especialmente para alguien como yo que tiene un horario de estudio impredecible. El material adicional proporcionado por Talk it up English y las sugerencias para practicar fuera de clase han sido esenciales para consolidar lo que aprendo en las lecciones.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                <cite className="text-gray-200 not-italic">Julieta Garcia</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">Contadora</a>
               </div>
             </div>
 
@@ -45,9 +45,9 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">— La dinámica de las clases hace que cada sesión sea interesante y participativa, manteniéndome comprometido en todo momento. La modalidad online me ha proporcionado la flexibilidad que necesito, sin sacrificar la calidad del aprendizaje. Además, el material adicional y las sugerencias de práctica han sido clave para reforzar lo aprendido en cada lección.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                <cite className="text-gray-200 not-italic">Martin Salazar</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX/UI</a>
               </div>
             </div>
 
@@ -61,9 +61,9 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">— La dinámica es súper participativa, lo cual hace que el aprendizaje sea ameno y efectivo. La modalidad online se adapta perfectamente a mi apretada agenda, permitiéndome mejorar mi inglés desde la comodidad de mi hogar. Además, el material extra y las sugerencias de práctica me han ayudado a consolidar lo aprendido fuera de clase. ¡Definitivamente recomiendo Talk it up English a todos los profesionales que buscan mejorar sus habilidades lingüísticas!"</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                <cite className="text-gray-200 not-italic">Ana Lopez</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">QA/Tester</a>
               </div>
             </div>
 
