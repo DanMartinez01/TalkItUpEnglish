@@ -21,7 +21,7 @@ export default function Features() {
                 <path className="stroke-current text-purple-300" d="M43 42h-9M43 37h-9" strokeLinecap="square" strokeWidth="2" />
               </svg>
               <h4 className="h4 mb-2">Clases Personalizadas:</h4>
-              <p className="text-lg text-gray-400 text-center">Aprende a tu propio ritmo: Clases Online Personalizadas.</p>
+              <p className="text-lg text-gray-400 text-center">Aprende a tu propio ritmo: Clases Online hechas a tu medida.</p>
             </div>
 
             {/* 2nd item */}
@@ -45,8 +45,8 @@ export default function Features() {
                   <circle className="stroke-current text-purple-100" cx="11" cy="11" r="11" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Mejora de Pronunciación</h4>
-              <p className="text-lg text-gray-400 text-center">Habla con Confianza: Mejora tu Pronunciación.</p>
+              <h4 className="h4 mb-2">Trabaja en tu pronunciación</h4>
+              <p className="text-lg text-gray-400 text-center">Ejercicios para trabajar tu pronunciación y confianza al hablar.</p>
             </div>
 
             {/* 4th item */}

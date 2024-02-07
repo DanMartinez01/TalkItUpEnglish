@@ -29,7 +29,7 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">— La dinámica de las clases hace que el aprendizaje sea divertido y efectivo. La modalidad online es muy conveniente, especialmente para alguien como yo que tiene un horario de estudio impredecible. El material adicional proporcionado por Talk it up English y las sugerencias para practicar fuera de clase han sido esenciales para consolidar lo que aprendo en las lecciones.</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">— La dinámica de las clases hace que el aprendizaje sea divertido y efectivo. La modalidad online es muy conveniente, especialmente para alguien como yo que tiene un horario de estudio impredecible. El material extra me ha resultado muy util para seguir practicando luego de cada clase.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
                 <cite className="text-gray-200 not-italic">Julieta Garcia</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">Contadora</a>
               </div>
@@ -45,7 +45,7 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">— La dinámica de las clases hace que cada sesión sea interesante y participativa, manteniéndome comprometido en todo momento. La modalidad online me ha proporcionado la flexibilidad que necesito, sin sacrificar la calidad del aprendizaje. Además, el material adicional y las sugerencias de práctica han sido clave para reforzar lo aprendido en cada lección.</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">— Elegi hacer clases de conversación y me resultaron muy interesantes y participativas, manteniéndome comprometido en todo momento.Me gustó mucho el enfasis que se hace en la pronunciación, mejoré mucho estos meses.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
                 <cite className="text-gray-200 not-italic">Martin Salazar</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX/UI</a>
               </div>
@@ -61,9 +61,10 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">— La dinámica es súper participativa, lo cual hace que el aprendizaje sea ameno y efectivo. La modalidad online se adapta perfectamente a mi apretada agenda, permitiéndome mejorar mi inglés desde la comodidad de mi hogar. Además, el material extra y las sugerencias de práctica me han ayudado a consolidar lo aprendido fuera de clase. ¡Definitivamente recomiendo Talk it up English a todos los profesionales que buscan mejorar sus habilidades lingüísticas!"</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">—Las clases estaban orientadas a las necesidades de mi trabajo, por lo cual se trabajo vocabulario especifico y mucha conversacion. El material definitivamente es un plus, para seguir practicando en la semana.
+              </blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Ana Lopez</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">QA/Tester</a>
+                <cite className="text-gray-200 not-italic">Mariano Valdez</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">QA/Tester</a>
               </div>
             </div>
 
