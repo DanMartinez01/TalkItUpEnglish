@@ -31,6 +31,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <Head>
+        <meta name="google-site-verification" content="Q88m3RZWJO3IEDJuHXutMixCd4FKxg2V4QtDNGoDqdI" />
         <link rel="icon" href="public\favicon.png" />
       </Head>
       <body className={`${inter.variable} ${architects_daughter.variable} font-inter antialiased bg-gray-900 text-gray-200 tracking-tight`}>
